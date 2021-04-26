@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
+permalink: /
 title: Athena Jekyll Theme
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+A pokecrystal hack by @FieryMewtwo and @Duramax-Tech-co. 
