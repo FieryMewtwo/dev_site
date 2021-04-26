@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: Athena Jekyll Theme
+title: Pokemon Shining Crystal
 
 ---
 A pokecrystal hack by @FieryMewtwo and @Duramax-Tech-co. 
