@@ -1,9 +1,9 @@
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: Pokemon ShiningCrystal
+description: A QOL hack of pokecrystal
 social_link: instagram
-social_username: broccolini
-github_repo: athena
-github_username: broccolini
+social_username: brodmoran
+github_repo: shiningcrystal
+github_username: FieryMewtwo
 theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /dev_site
